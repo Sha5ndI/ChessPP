@@ -1,3 +1,1 @@
 # ChessPP
-
-## Hello World!
